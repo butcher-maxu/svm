@@ -1,4 +1,5 @@
 # svm
+#forked from xinlianghu/svm
 * svm.py <br>
 该文件中实现了一个简单的SVM，使用SMO进行优化，在选择优化的变量时采用随机选择的方式。
 * plattSMO.py <br>
